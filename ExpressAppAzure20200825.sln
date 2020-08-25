@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ExpressAppAzure20200825", "ExpressAppAzure20200825\ExpressAppAzure20200825.njsproj", "{871903ED-B55B-41BC-BCCD-C11DAA0F89AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{871903ED-B55B-41BC-BCCD-C11DAA0F89AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871903ED-B55B-41BC-BCCD-C11DAA0F89AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871903ED-B55B-41BC-BCCD-C11DAA0F89AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871903ED-B55B-41BC-BCCD-C11DAA0F89AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {677987C1-D384-4473-9AAA-CA49CD03FF1C}
+	EndGlobalSection
+EndGlobal
